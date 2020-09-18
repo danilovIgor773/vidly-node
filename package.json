@@ -12,5 +12,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "joi": "^13.1.0"
+  },
+  "devDependencies": {
+    "mongoose": "^5.10.5"
   }
 }
